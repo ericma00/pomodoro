@@ -1,0 +1,14 @@
+
+
+@media only screen and (min-width: 768px) {
+    /* Styles */
+    .home_main {
+        padding-top: 4rem;
+        justify-content: center;
+        display: flex;
+    }
+    .home_main h4 {
+        margin: 0;
+    }
+    
+}

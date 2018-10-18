@@ -1,0 +1,27 @@
+.timerMain {
+    margin: 0 auto;
+    padding-top: 4rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.timer_input {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.num_input {
+    margin-right: 0.5rem;
+}
+
+.controls {
+    display: flex;
+    flex-direction: column;
+}
+
+.timer_style {
+    margin: 0 auto;
+    padding: 0 2rem;
+}

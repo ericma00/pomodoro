@@ -1,0 +1,12 @@
+.stopwatch_main {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 4rem;
+}
+
+.input_buttons {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}

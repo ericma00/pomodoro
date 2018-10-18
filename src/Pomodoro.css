@@ -1,0 +1,29 @@
+.pom_main {
+  text-align: center;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* align-items: center;
+  justify-content: center;
+  border: red 1px solid; */
+  padding-top: 4rem;
+}
+
+.control_buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.input_data {
+  display: flex; 
+  flex-direction: column;
+  margin-right: 0.5rem;
+}
+.start_clear {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 0;
+}
+ 
+
+

@@ -1,0 +1,10 @@
+.timer {
+    font-size: 40pt;
+}
+
+.timer h1 {
+    margin: 0;
+    /* display: inline-block; */
+    text-align: center;
+    color: #323232;
+}

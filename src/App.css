@@ -1,0 +1,13 @@
+.back_button {
+    margin: 2rem auto;
+    width: 490px;
+}
+
+.back_button img {
+    width: 24px;
+}
+
+@media only screen and (max-width: 768px) {
+    /* Styles */
+    
+}
